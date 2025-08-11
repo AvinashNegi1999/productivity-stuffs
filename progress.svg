@@ -1,0 +1,30 @@
+<svg width="500" height="180" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Title -->
+  <text x="10" y="20" font-size="18" font-family="Arial" font-weight="bold">📚 Learning Journey</text>
+
+  <!-- Python Basics -->
+  <text x="10" y="50" font-size="14" font-family="Arial">Python Basics</text>
+  <rect x="150" y="38" width="300" height="15" fill="#ddd" rx="7" />
+  <rect x="150" y="38" width="300" height="15" fill="#4caf50" rx="7" />
+  <text x="460" y="50" font-size="12" font-family="Arial" fill="#333">100%</text>
+
+  <!-- Python OOP -->
+  <text x="10" y="80" font-size="14" font-family="Arial">Python OOP</text>
+  <rect x="150" y="68" width="300" height="15" fill="#ddd" rx="7" />
+  <rect x="150" y="68" width="150" height="15" fill="#2196f3" rx="7" />
+  <text x="460" y="80" font-size="12" font-family="Arial" fill="#333">50%</text>
+
+  <!-- C Programming -->
+  <text x="10" y="110" font-size="14" font-family="Arial">C Programming</text>
+  <rect x="150" y="98" width="300" height="15" fill="#ddd" rx="7" />
+  <rect x="150" y="98" width="300" height="15" fill="#ff9800" rx="7" />
+  <text x="460" y="110" font-size="12" font-family="Arial" fill="#333">100%</text>
+
+  <!-- Striver DSA Sheet -->
+  <text x="10" y="140" font-size="14" font-family="Arial">Striver DSA Sheet</text>
+  <rect x="150" y="128" width="300" height="15" fill="#ddd" rx="7" />
+  <rect x="150" y="128" width="90" height="15" fill="#9c27b0" rx="7" />
+  <text x="460" y="140" font-size="12" font-family="Arial" fill="#333">30%</text>
+
+</svg>
