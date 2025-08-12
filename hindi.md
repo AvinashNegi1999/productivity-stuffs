@@ -50,3 +50,43 @@
 - **Native**:
   - ![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white) For iOS development.
   - ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white) For Android development.
+
+## 7. Blockchain Stack
+- **Platforms**:
+  - ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white) For smart contracts and dApps.
+  - ![Solana](https://img.shields.io/badge/Solana-000000?style=for-the-badge&logo=solana&logoColor=white) For high-speed transactions.
+- **Development**:
+  - ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white) For contract programming.
+  - ![Hyperledger Fabric](https://img.shields.io/badge/Hyperledger_Fabric-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white) For enterprise solutions.
+
+## 8. IoT Stack
+- **Platforms**:
+  - ![AWS IoT](https://img.shields.io/badge/AWS_IoT-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) For device management.
+  - ![Azure IoT](https://img.shields.io/badge/Azure_IoT-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) For cloud integration.
+- **Development**:
+  - ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white) For hardware prototyping.
+  - ![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipse&logoColor=white) For messaging protocol.
+
+## 9. Cybersecurity Stack
+- **Analysis & Testing**:
+  - ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white) For network analysis.
+  - ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white) For web security testing.
+- **Monitoring**:
+  - ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white) For threat detection.
+  - ![Metasploit](https://img.shields.io/badge/Metasploit-FF0000?style=for-the-badge&logo=metasploit&logoColor=white) For penetration testing.
+
+## 10. Game Development Stack
+- **Engines**:
+  - ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white) For 2D/3D games.
+  - ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white) For high-fidelity graphics.
+- **Tools**:
+  - ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white) For open-source development.
+  - ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white) For 3D modeling.
+
+## 11. Cloud Computing Stack
+- **Providers**:
+  - ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) For scalable infrastructure.
+  - ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) For hybrid solutions.
+- **Tools**:
+  - ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white) For AI-integrated services.
+  - ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) For container orchestration.
