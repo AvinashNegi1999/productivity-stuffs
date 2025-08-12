@@ -90,3 +90,27 @@
 - **Tools**:
   - ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white) For AI-integrated services.
   - ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) For container orchestration.
+
+## 12. Robotics Stack
+- **Frameworks**:
+  - ![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white) For robot software development.
+  - ![Gazebo](https://img.shields.io/badge/Gazebo-FF6F00?style=for-the-badge&logo=gazebo&logoColor=white) For simulation.
+- **Languages & Tools**:
+  - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) For scripting.
+  - ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) For AI integration.
+
+## 13. AR/VR Stack
+- **Engines**:
+  - ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white) For AR/VR experiences.
+  - ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white) For immersive graphics.
+- **Tools**:
+  - ![ARKit](https://img.shields.io/badge/ARKit-0A1E2F?style=for-the-badge&logo=apple&logoColor=white) For iOS AR.
+  - ![ARCore](https://img.shields.io/badge/ARCore-4285F4?style=for-the-badge&logo=google&logoColor=white) For Android AR.
+
+## 14. Quantum Computing Stack
+- **Frameworks**:
+  - ![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white) For quantum circuits.
+  - ![Cirq](https://img.shields.io/badge/Cirq-1967D2?style=for-the-badge&logo=google&logoColor=white) For quantum algorithms.
+- **Tools**:
+  - ![PennyLane](https://img.shields.io/badge/PennyLane-000000?style=for-the-badge&logo=pennylane&logoColor=white) For hybrid quantum-ML.
+  - ![IBM Quantum](https://img.shields.io/badge/IBM_Quantum-001E64?style=for-the-badge&logo=ibm&logoColor=white) For cloud access.
