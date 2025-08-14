@@ -4,13 +4,13 @@
 
 ---
 
-## ​​​ Sell Digital Products 🖌️
+## 1️⃣ Sell Digital Products 🖌️
 **What to Do:** Design & sell website themes, plugins, or templates.  
-**Platforms:** ThemeForest, CodeCanyon, Creative Market.  
+**Platforms:** [ThemeForest](https://themeforest.net), [CodeCanyon](https://codecanyon.net), [Creative Market](https://creativemarket.com).  
 
 | Learn on Udemy ![Udemy Badge](https://img.shields.io/badge/Udemy-Learn-orange) | Learn on YouTube ![YouTube Badge](https://img.shields.io/badge/YouTube-Watch-red) |
 |-------------------|---------------------|
-| [WordPress Development with Bootstrap: The Complete Course](https://www.udemy.com/course/bootstrap-to-wordpress/) — build responsive WordPress themes with Bootstrap :contentReference[oaicite:0]{index=0} | [Traversy Media YouTube Channel](https://www.youtube.com/c/TraversyMedia) — project-based web development tutorials :contentReference[oaicite:1]{index=1} |
+| [WordPress Development with Bootstrap: The Complete Course](https://www.udemy.com/course/bootstrap-to-wordpress/) — build responsive WordPress themes with Bootstrap | [Traversy Media YouTube Channel](https://www.youtube.com/c/TraversyMedia) — project-based web development tutorials |
 
 ---
 
