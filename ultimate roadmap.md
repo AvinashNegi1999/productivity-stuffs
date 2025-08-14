@@ -6,9 +6,27 @@
 
 ---
 
-## **📅 Phase 1 — Foundations & Web Development**
+## **📅 Phase 1 — Foundations, Web Development & Early Personal Branding**
 
-🎯 *Goal:* Build a strong foundation in programming, Linux, and basic web development.
+🎯 *Goal:* Build a strong foundation in programming, Linux, and basic web development — while starting personal branding early to grow your online presence alongside your skills.
+
+---
+
+### **Step 0 — Early Personal Branding (Start Week 1, Continue Forever)**
+
+🌎 Build visibility **from day one** so opportunities come to you later.
+
+* Create a GitHub account and push **every project** (even small scripts).
+* Start a blog on [Hashnode](https://hashnode.com/) or [Dev.to](https://dev.to/) to post learning notes.
+* Share your progress weekly on LinkedIn/Twitter/Reddit.
+* Join dev communities:
+
+  * [Reddit r/webdev](https://www.reddit.com/r/webdev/)
+  * [Stack Overflow](https://stackoverflow.com/)
+  * [Discord Dev Communities](https://discord.com/discover)
+* Contribute to **open source** at a beginner level (typo fixes, docs updates).
+
+💡 **Mini Project:** Publish a “Week 1: My Road to Full-Stack + AI” blog post.
 
 ---
 
@@ -28,7 +46,7 @@
 * [Linux for Absolute Beginners – Udemy](https://www.udemy.com/course/linux-for-absolute-beginners/)
 * [Linux Tutorial for Beginners – freeCodeCamp](https://www.youtube.com/watch?v=sWbUDq4S6Y8)
 
-**💡 Project:** Write a shell script to automate backups.
+💡 **Project:** Write a shell script to automate backups.
 
 ---
 
@@ -46,7 +64,7 @@
 * [100 Days of Code: Python Pro Bootcamp – Udemy](https://www.udemy.com/course/100-days-of-code/)
 * [Python for Everybody – Coursera](https://www.coursera.org/specializations/python)
 
-**💡 Project:** CLI Task Manager (Python + file storage)
+💡 **Project:** CLI Task Manager (Python + file storage) → **Publish on GitHub + write a blog post**.
 
 ---
 
@@ -65,7 +83,7 @@
 * [The Complete Web Development Bootcamp – Udemy](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
 * [freeCodeCamp – Responsive Web Design](https://www.freecodecamp.org/learn/)
 
-**💡 Project:** Personal Portfolio Website
+💡 **Project:** Personal Portfolio Website → **Deploy + write a showcase article**.
 
 ---
 
@@ -83,7 +101,7 @@
 * [React Full Course – freeCodeCamp](https://www.youtube.com/watch?v=bMknfKXIFA8)
 * [Next.js Crash Course – Traversy Media](https://youtu.be/w7ejDZ8SWv8)
 
-**💡 Project:** Blog Site (Next.js + Markdown)
+💡 **Project:** Blog Site (Next.js + Markdown) → **Write “How I Built My Blog with Next.js” post**.
 
 ---
 
@@ -104,13 +122,14 @@
 * [Node.js, Express, MongoDB Bootcamp – Udemy](https://www.udemy.com/course/nodejs-express-mongodb-bootcamp/)
 * [Docker Crash Course – Fireship](https://youtu.be/3c-iBn73dDE)
 
-**💡 Project:** Real-Time Chat App (WebSocket + Node.js + PostgreSQL)
+💡 **Project:** Real-Time Chat App (WebSocket + Node.js + PostgreSQL) → **Demo video + GitHub README**.
 
 ---
 
 **📌 Phase 1 Milestones:**
 
 * ✅ 5–7 beginner-friendly projects on GitHub
+* ✅ Personal blog + social presence started
 * ✅ Comfortable with Python, Linux, and basic web dev
 * ✅ First deployed full-stack app
 
