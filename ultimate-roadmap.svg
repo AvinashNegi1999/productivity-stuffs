@@ -1,128 +1,111 @@
-<svg width="750" height="300" xmlns="http://www.w3.org/2000/svg">
+<svg width="750" height="1100" xmlns="http://www.w3.org/2000/svg">
 
+  <!-- ===== Phase 1 ===== -->
   <text x="10" y="20" font-size="18" font-family="Arial" font-weight="bold">📅 Phase 1 — Foundations, Web Development & Branding</text>
 
   <!-- Step 0 -->
   <text x="10" y="50" font-size="14" font-family="Arial">Early Personal Branding</text>
-  <rect x="220" y="38" width="500" height="15" fill="#ddd" rx="7" />
-  <rect x="220" y="38" width="0" height="15" fill="#f44336" rx="7" />
+  <rect x="220" y="38" width="500" height="15" fill="#ddd" rx="7"/>
+  <rect x="220" y="38" width="0" height="15" fill="#f44336" rx="7"/>
   <text x="730" y="50" font-size="12" font-family="Arial" fill="#333">0%</text>
 
   <!-- Step 1 -->
   <text x="10" y="80" font-size="14" font-family="Arial">Linux Basics</text>
-  <rect x="220" y="68" width="500" height="15" fill="#ddd" rx="7" />
-  <rect x="220" y="68" width="0" height="15" fill="#f44336" rx="7" />
+  <rect x="220" y="68" width="500" height="15" fill="#ddd" rx="7"/>
+  <rect x="220" y="68" width="0" height="15" fill="#f44336" rx="7"/>
   <text x="730" y="80" font-size="12" font-family="Arial" fill="#333">0%</text>
 
   <!-- Step 2 -->
   <text x="10" y="110" font-size="14" font-family="Arial">Python Foundations</text>
-  <rect x="220" y="98" width="500" height="15" fill="#ddd" rx="7" />
-  <rect x="220" y="98" width="150" height="15" fill="#2196f3" rx="7" />
+  <rect x="220" y="98" width="500" height="15" fill="#ddd" rx="7"/>
+  <rect x="220" y="98" width="150" height="15" fill="#2196f3" rx="7"/>
   <text x="730" y="110" font-size="12" font-family="Arial" fill="#333">30%</text>
 
   <!-- Step 3 -->
   <text x="10" y="140" font-size="14" font-family="Arial">Web Development Basics</text>
-  <rect x="220" y="128" width="500" height="15" fill="#ddd" rx="7" />
-  <rect x="220" y="128" width="0" height="15" fill="#f44336" rx="7" />
+  <rect x="220" y="128" width="500" height="15" fill="#ddd" rx="7"/>
+  <rect x="220" y="128" width="0" height="15" fill="#f44336" rx="7"/>
   <text x="730" y="140" font-size="12" font-family="Arial" fill="#333">0%</text>
 
   <!-- Step 4 -->
   <text x="10" y="170" font-size="14" font-family="Arial">Frontend Frameworks</text>
-  <rect x="220" y="158" width="500" height="15" fill="#ddd" rx="7" />
-  <rect x="220" y="158" width="0" height="15" fill="#f44336" rx="7" />
+  <rect x="220" y="158" width="500" height="15" fill="#ddd" rx="7"/>
+  <rect x="220" y="158" width="0" height="15" fill="#f44336" rx="7"/>
   <text x="730" y="170" font-size="12" font-family="Arial" fill="#333">0%</text>
 
   <!-- Step 5 -->
   <text x="10" y="200" font-size="14" font-family="Arial">Backend & Databases</text>
-  <rect x="220" y="188" width="500" height="15" fill="#ddd" rx="7" />
-  <rect x="220" y="188" width="0" height="15" fill="#f44336" rx="7" />
+  <rect x="220" y="188" width="500" height="15" fill="#ddd" rx="7"/>
+  <rect x="220" y="188" width="0" height="15" fill="#f44336" rx="7"/>
   <text x="730" y="200" font-size="12" font-family="Arial" fill="#333">0%</text>
 
-</svg>
-<svg width="750" height="240" xmlns="http://www.w3.org/2000/svg">
+  <!-- ===== Phase 2 ===== -->
+  <text x="10" y="250" font-size="18" font-family="Arial" font-weight="bold">📅 Phase 2 — Advanced Web Dev & AI Integration</text>
 
-  <text x="10" y="20" font-size="18" font-family="Arial" font-weight="bold">📅 Phase 2 — Advanced Web Dev & AI Integration</text>
+  <text x="10" y="280" font-size="14" font-family="Arial">Advanced Frontend</text>
+  <rect x="220" y="268" width="500" height="15" fill="#ddd" rx="7"/>
+  <rect x="220" y="268" width="0" height="15" fill="#f44336" rx="7"/>
+  <text x="730" y="280" font-size="12" font-family="Arial" fill="#333">0%</text>
 
-  <!-- Step 1 -->
-  <text x="10" y="50" font-size="14" font-family="Arial">Advanced Frontend</text>
-  <rect x="220" y="38" width="500" height="15" fill="#ddd" rx="7" />
-  <rect x="220" y="38" width="0" height="15" fill="#f44336" rx="7" />
-  <text x="730" y="50" font-size="12" font-family="Arial" fill="#333">0%</text>
+  <text x="10" y="310" font-size="14" font-family="Arial">Advanced Backend</text>
+  <rect x="220" y="298" width="500" height="15" fill="#ddd" rx="7"/>
+  <rect x="220" y="298" width="0" height="15" fill="#f44336" rx="7"/>
+  <text x="730" y="310" font-size="12" font-family="Arial" fill="#333">0%</text>
 
-  <!-- Step 2 -->
-  <text x="10" y="80" font-size="14" font-family="Arial">Advanced Backend</text>
-  <rect x="220" y="68" width="500" height="15" fill="#ddd" rx="7" />
-  <rect x="220" y="68" width="0" height="15" fill="#f44336" rx="7" />
-  <text x="730" y="80" font-size="12" font-family="Arial" fill="#333">0%</text>
+  <text x="10" y="340" font-size="14" font-family="Arial">Cloud & Testing</text>
+  <rect x="220" y="328" width="500" height="15" fill="#ddd" rx="7"/>
+  <rect x="220" y="328" width="0" height="15" fill="#f44336" rx="7"/>
+  <text x="730" y="340" font-size="12" font-family="Arial" fill="#333">0%</text>
 
-  <!-- Step 3 -->
-  <text x="10" y="110" font-size="14" font-family="Arial">Cloud & Testing</text>
-  <rect x="220" y="98" width="500" height="15" fill="#ddd" rx="7" />
-  <rect x="220" y="98" width="0" height="15" fill="#f44336" rx="7" />
-  <text x="730" y="110" font-size="12" font-family="Arial" fill="#333">0%</text>
+  <text x="10" y="370" font-size="14" font-family="Arial">AI API Integration</text>
+  <rect x="220" y="358" width="500" height="15" fill="#ddd" rx="7"/>
+  <rect x="220" y="358" width="0" height="15" fill="#f44336" rx="7"/>
+  <text x="730" y="370" font-size="12" font-family="Arial" fill="#333">0%</text>
 
-  <!-- Step 4 -->
-  <text x="10" y="140" font-size="14" font-family="Arial">AI API Integration</text>
-  <rect x="220" y="128" width="500" height="15" fill="#ddd" rx="7" />
-  <rect x="220" y="128" width="0" height="15" fill="#f44336" rx="7" />
-  <text x="730" y="140" font-size="12" font-family="Arial" fill="#333">0%</text>
+  <!-- ===== Phase 3 ===== -->
+  <text x="10" y="420" font-size="18" font-family="Arial" font-weight="bold">📅 Phase 3 — Deep AI, Distributed Systems & DSA</text>
 
-</svg>
-<svg width="750" height="270" xmlns="http://www.w3.org/2000/svg">
+  <text x="10" y="450" font-size="14" font-family="Arial">Machine Learning Core</text>
+  <rect x="220" y="438" width="500" height="15" fill="#ddd" rx="7"/>
+  <rect x="220" y="438" width="0" height="15" fill="#f44336" rx="7"/>
+  <text x="730" y="450" font-size="12" font-family="Arial" fill="#333">0%</text>
 
-  <text x="10" y="20" font-size="18" font-family="Arial" font-weight="bold">📅 Phase 3 — Deep AI, Distributed Systems & DSA</text>
+  <text x="10" y="480" font-size="14" font-family="Arial">Deep Learning & LLM Fine-Tuning</text>
+  <rect x="220" y="468" width="500" height="15" fill="#ddd" rx="7"/>
+  <rect x="220" y="468" width="0" height="15" fill="#f44336" rx="7"/>
+  <text x="730" y="480" font-size="12" font-family="Arial" fill="#333">0%</text>
 
-  <!-- Step 1 -->
-  <text x="10" y="50" font-size="14" font-family="Arial">Machine Learning Core</text>
-  <rect x="220" y="38" width="500" height="15" fill="#ddd" rx="7" />
-  <rect x="220" y="38" width="0" height="15" fill="#f44336" rx="7" />
-  <text x="730" y="50" font-size="12" font-family="Arial" fill="#333">0%</text>
+  <text x="10" y="510" font-size="14" font-family="Arial">Distributed Systems</text>
+  <rect x="220" y="498" width="500" height="15" fill="#ddd" rx="7"/>
+  <rect x="220" y="498" width="0" height="15" fill="#f44336" rx="7"/>
+  <text x="730" y="510" font-size="12" font-family="Arial" fill="#333">0%</text>
 
-  <!-- Step 2 -->
-  <text x="10" y="80" font-size="14" font-family="Arial">Deep Learning & LLM Fine-Tuning</text>
-  <rect x="220" y="68" width="500" height="15" fill="#ddd" rx="7" />
-  <rect x="220" y="68" width="0" height="15" fill="#f44336" rx="7" />
-  <text x="730" y="80" font-size="12" font-family="Arial" fill="#333">0%</text>
+  <text x="10" y="540" font-size="14" font-family="Arial">Advanced DSA & Competitive Programming</text>
+  <rect x="220" y="528" width="500" height="15" fill="#ddd" rx="7"/>
+  <rect x="220" y="528" width="0" height="15" fill="#f44336" rx="7"/>
+  <text x="730" y="540" font-size="12" font-family="Arial" fill="#333">0%</text>
 
-  <!-- Step 3 -->
-  <text x="10" y="110" font-size="14" font-family="Arial">Distributed Systems</text>
-  <rect x="220" y="98" width="500" height="15" fill="#ddd" rx="7" />
-  <rect x="220" y="98" width="0" height="15" fill="#f44336" rx="7" />
-  <text x="730" y="110" font-size="12" font-family="Arial" fill="#333">0%</text>
+  <!-- ===== Phase 4 ===== -->
+  <text x="10" y="590" font-size="18" font-family="Arial" font-weight="bold">📅 Phase 4 — System Design, Monetization & Leadership</text>
 
-  <!-- Step 4 -->
-  <text x="10" y="140" font-size="14" font-family="Arial">Advanced DSA & Competitive Programming</text>
-  <rect x="220" y="128" width="500" height="15" fill="#ddd" rx="7" />
-  <rect x="220" y="128" width="0" height="15" fill="#f44336" rx="7" />
-  <text x="730" y="140" font-size="12" font-family="Arial" fill="#333">0%</text>
+  <text x="10" y="620" font-size="14" font-family="Arial">System Design & Architecture</text>
+  <rect x="220" y="608" width="500" height="15" fill="#ddd" rx="7"/>
+  <rect x="220" y="608" width="0" height="15" fill="#f44336" rx="7"/>
+  <text x="730" y="620" font-size="12" font-family="Arial" fill="#333">0%</text>
 
-</svg>
-<svg width="750" height="270" xmlns="http://www.w3.org/2000/svg">
+  <text x="10" y="650" font-size="14" font-family="Arial">AI Ops & Optimization</text>
+  <rect x="220" y="638" width="500" height="15" fill="#ddd" rx="7"/>
+  <rect x="220" y="638" width="0" height="15" fill="#f44336" rx="7"/>
+  <text x="730" y="650" font-size="12" font-family="Arial" fill="#333">0%</text>
 
-  <text x="10" y="20" font-size="18" font-family="Arial" font-weight="bold">📅 Phase 4 — System Design, Monetization & Leadership</text>
+  <text x="10" y="680" font-size="14" font-family="Arial">Flagship Project</text>
+  <rect x="220" y="668" width="500" height="15" fill="#ddd" rx="7"/>
+  <rect x="220" y="668" width="0" height="15" fill="#f44336" rx="7"/>
+  <text x="730" y="680" font-size="12" font-family="Arial" fill="#333">0%</text>
 
-  <!-- Step 1 -->
-  <text x="10" y="50" font-size="14" font-family="Arial">System Design & Architecture</text>
-  <rect x="220" y="38" width="500" height="15" fill="#ddd" rx="7" />
-  <rect x="220" y="38" width="0" height="15" fill="#f44336" rx="7" />
-  <text x="730" y="50" font-size="12" font-family="Arial" fill="#333">0%</text>
-
-  <!-- Step 2 -->
-  <text x="10" y="80" font-size="14" font-family="Arial">AI Ops & Optimization</text>
-  <rect x="220" y="68" width="500" height="15" fill="#ddd" rx="7" />
-  <rect x="220" y="68" width="0" height="15" fill="#f44336" rx="7" />
-  <text x="730" y="80" font-size="12" font-family="Arial" fill="#333">0%</text>
-
-  <!-- Step 3 -->
-  <text x="10" y="110" font-size="14" font-family="Arial">Flagship Project</text>
-  <rect x="220" y="98" width="500" height="15" fill="#ddd" rx="7" />
-  <rect x="220" y="98" width="0" height="15" fill="#f44336" rx="7" />
-  <text x="730" y="110" font-size="12" font-family="Arial" fill="#333">0%</text>
-
-  <!-- Step 4 -->
-  <text x="10" y="140" font-size="14" font-family="Arial">Monetization Strategies</text>
-  <rect x="220" y="128" width="500" height="15" fill="#ddd" rx="7" />
-  <rect x="220" y="128" width="0" height="15" fill="#f44336" rx="7" />
-  <text x="730" y="140" font-size="12" font-family="Arial" fill="#333">0%</text>
+  <text x="10" y="710" font-size="14" font-family="Arial">Monetization Strategies</text>
+  <rect x="220" y="698" width="500" height="15" fill="#ddd" rx="7"/>
+  <rect x="220" y="698" width="0" height="15" fill="#f44336" rx="7"/>
+  <text x="730" y="710" font-size="12" font-family="Arial" fill="#333">0%</text>
 
 </svg>
