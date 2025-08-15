@@ -4,7 +4,10 @@
 > **Approach:** Project-driven learning, one skill focus at a time, strong public portfolio.
 > **Time Commitment:** \~15 hrs/week (adjust as needed). Breaks allowed for revision or exams.
 ---
+## Phase 1 Progress
+
 <img src="phase1.svg" alt="Phase 1 Progress Tracker" />
+
 ---
 ## **📅 Phase 1 — Foundations, Web Development & Early Personal Branding**
 
@@ -139,7 +142,11 @@
 - ✅ First deployed full-stack app
 
 ---
+## Phase 2 Progress
 
+<img src="phase2.svg" alt="Phase 2 Progress Tracker" />
+
+---
 ## **📅 Phase 2 — Advanced Web Development & AI Integration**
 
 🎯 _Goal:_ Build scalable, production-ready apps and integrate AI capabilities.
@@ -235,7 +242,11 @@
 - ✅ First AI-powered application in portfolio
 
 ---
+## Phase 3 Progress
 
+<img src="phase3.svg" alt="Phase 3 Progress Tracker" />
+
+---
 ## **📅 Phase 3 — Deep AI, Distributed Systems & DSA Mastery**
 
 🎯 _Goal:_ Build and deploy custom AI models, master distributed systems, and reach FAANG-level problem-solving skills.
@@ -331,7 +342,11 @@
 - ✅ Solve competitive programming challenges at an advanced level
 
 ---
+## Phase 4 Progress
 
+<img src="phase4.svg" alt="Phase 4 Progress Tracker" />
+
+---
 ## **📅 Phase 4 — System Design, Monetization & Thought Leadership**
 
 🎯 _Goal:_ Operate at a tech-lead/CTO level, launch flagship products, monetize skills, and build public presence.
