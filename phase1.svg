@@ -1,41 +1,30 @@
-<svg width="750" height="300" xmlns="http://www.w3.org/2000/svg">
+<svg width="500" height="180" xmlns="http://www.w3.org/2000/svg">
 
-  <text x="10" y="20" font-size="18" font-family="Arial" font-weight="bold">📅 Phase 1 — Foundations, Web Development & Branding</text>
+  <!-- Title -->
+  <text x="10" y="20" font-size="18" font-family="Arial" font-weight="bold">📚 Learning Journey</text>
 
-  <!-- Step 0 -->
-  <text x="10" y="50" font-size="14" font-family="Arial">Early Personal Branding</text>
-  <rect x="220" y="38" width="500" height="15" fill="#ddd" rx="7" />
-  <rect x="220" y="38" width="0" height="15" fill="#f44336" rx="7" />
-  <text x="730" y="50" font-size="12" font-family="Arial" fill="#333">0%</text>
+  <!-- Python Basics -->
+  <text x="10" y="50" font-size="14" font-family="Arial">Python Basics</text>
+  <rect x="150" y="38" width="300" height="15" fill="#ddd" rx="7" />
+  <rect x="150" y="38" width="300" height="15" fill="#4caf50" rx="7" />
+  <text x="460" y="50" font-size="12" font-family="Arial" fill="#333">100%</text>
 
-  <!-- Step 1 -->
-  <text x="10" y="80" font-size="14" font-family="Arial">Linux Basics</text>
-  <rect x="220" y="68" width="500" height="15" fill="#ddd" rx="7" />
-  <rect x="220" y="68" width="0" height="15" fill="#f44336" rx="7" />
-  <text x="730" y="80" font-size="12" font-family="Arial" fill="#333">0%</text>
+  <!-- Python OOP -->
+  <text x="10" y="80" font-size="14" font-family="Arial">Python OOP</text>
+  <rect x="150" y="68" width="300" height="15" fill="#ddd" rx="7" />
+  <rect x="150" y="68" width="150" height="15" fill="#2196f3" rx="7" />
+  <text x="460" y="80" font-size="12" font-family="Arial" fill="#333">50%</text>
 
-  <!-- Step 2 -->
-  <text x="10" y="110" font-size="14" font-family="Arial">Python Foundations</text>
-  <rect x="220" y="98" width="500" height="15" fill="#ddd" rx="7" />
-  <rect x="220" y="98" width="150" height="15" fill="#2196f3" rx="7" />
-  <text x="730" y="110" font-size="12" font-family="Arial" fill="#333">30%</text>
+  <!-- C Programming -->
+  <text x="10" y="110" font-size="14" font-family="Arial">C Programming</text>
+  <rect x="150" y="98" width="300" height="15" fill="#ddd" rx="7" />
+  <rect x="150" y="98" width="300" height="15" fill="#ff9800" rx="7" />
+  <text x="460" y="110" font-size="12" font-family="Arial" fill="#333">100%</text>
 
-  <!-- Step 3 -->
-  <text x="10" y="140" font-size="14" font-family="Arial">Web Development Basics</text>
-  <rect x="220" y="128" width="500" height="15" fill="#ddd" rx="7" />
-  <rect x="220" y="128" width="0" height="15" fill="#f44336" rx="7" />
-  <text x="730" y="140" font-size="12" font-family="Arial" fill="#333">0%</text>
-
-  <!-- Step 4 -->
-  <text x="10" y="170" font-size="14" font-family="Arial">Frontend Frameworks</text>
-  <rect x="220" y="158" width="500" height="15" fill="#ddd" rx="7" />
-  <rect x="220" y="158" width="0" height="15" fill="#f44336" rx="7" />
-  <text x="730" y="170" font-size="12" font-family="Arial" fill="#333">0%</text>
-
-  <!-- Step 5 -->
-  <text x="10" y="200" font-size="14" font-family="Arial">Backend & Databases</text>
-  <rect x="220" y="188" width="500" height="15" fill="#ddd" rx="7" />
-  <rect x="220" y="188" width="0" height="15" fill="#f44336" rx="7" />
-  <text x="730" y="200" font-size="12" font-family="Arial" fill="#333">0%</text>
+  <!-- Striver DSA Sheet -->
+  <text x="10" y="140" font-size="14" font-family="Arial">Striver DSA Sheet</text>
+  <rect x="150" y="128" width="300" height="15" fill="#ddd" rx="7" />
+  <rect x="150" y="128" width="90" height="15" fill="#9c27b0" rx="7" />
+  <text x="460" y="140" font-size="12" font-family="Arial" fill="#333">30%</text>
 
 </svg>
