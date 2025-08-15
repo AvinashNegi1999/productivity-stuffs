@@ -5,7 +5,7 @@
 > **Time Commitment:** \~15 hrs/week (adjust as needed). Breaks allowed for revision or exams.
 
 ---
-![Phase 1 Progress](phase1.svg)
+![Progress](progress.svg)
 
 ---
 ## **📅 Phase 1 — Foundations, Web Development & Early Personal Branding**
