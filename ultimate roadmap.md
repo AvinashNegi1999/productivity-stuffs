@@ -5,7 +5,7 @@
 > **Time Commitment:** \~15 hrs/week (adjust as needed). Breaks allowed for revision or exams.
 
 ---
-![Ultimate Roadmap Progress](ultimate-roadmap.svg)
+![Phase 1 Progress](phase1.svg)
 
 ---
 ## **📅 Phase 1 — Foundations, Web Development & Early Personal Branding**
