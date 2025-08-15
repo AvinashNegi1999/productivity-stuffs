@@ -3,7 +3,8 @@
 > **Goal:** From absolute beginner → expert in programming, full-stack development, AI/ML, systems design, and monetization.
 > **Approach:** Project-driven learning, one skill focus at a time, strong public portfolio.
 > **Time Commitment:** \~15 hrs/week (adjust as needed). Breaks allowed for revision or exams.
-
+---
+<img src="phase1.svg" alt="Phase 1 Progress Tracker" />
 ---
 ## **📅 Phase 1 — Foundations, Web Development & Early Personal Branding**
 
