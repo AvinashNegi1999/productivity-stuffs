@@ -5,9 +5,6 @@
 > **Time Commitment:** \~15 hrs/week (adjust as needed). Breaks allowed for revision or exams.
 
 ---
-![Progress](phase.svg)
-
----
 ## **📅 Phase 1 — Foundations, Web Development & Early Personal Branding**
 
 🎯 _Goal:_ Build a strong foundation in programming, Linux, and basic web development — while starting personal branding early to grow your online presence alongside your skills.
