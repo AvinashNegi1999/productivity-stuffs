@@ -1,40 +1,81 @@
-# Enhanced Roadmap: BCA → Stanford MS in Computer Science (MSCS)
-
-| Month/Period | Tasks / Goals | Funding Focus | Notes / Tips |
-|--------------|---------------|---------------|--------------|
-| **Now – Dec 2025** | - Strengthen CS/math fundamentals (Algorithms, DS, OS, DB, Probability, Linear Algebra, ML basics) <br> - Build portfolio projects (ML/AI, Databases, Systems) <br> - Participate in coding competitions/hackathons <br> - Identify 2–3 potential Stanford faculty | N/A | Highlight projects in GitHub; aim for 3–5 polished projects |
-| **Jan – Mar 2025** | - Research funding options <br> - Start Knight-Hennessy application draft <br> - Explore external scholarships (Inlaks, Narotam, Fulbright-Nehru, Tata) <br> - Collect loan info | Knight-Hennessy, External scholarships | Collect transcripts, SOP draft, CV, bank statements for scholarships |
-| **Apr – Jun 2025** | - Prepare Stanford MSCS application <br> - SOP emphasizing BCA → CS transition <br> - CV/resume highlighting research/projects <br> - Letters of Recommendation (2 academic + 1 professional) <br> - Draft faculty contact emails (research interest + RA/TA inquiry) | Departmental RA/TA interest | Tailor SOP for funding + research interest |
-| **Jul – Sept 2025** | - Submit Stanford MSCS application (~Dec 2025 intake, confirm exact) <br> - Submit Knight-Hennessy application (~Sept 2025) <br> - Submit external scholarships | Knight-Hennessy, Inlaks/Narotam/Fulbright | Ensure all supporting documents uploaded: transcripts, LORs, SOP |
-| **Oct – Dec 2025** | - Faculty engagement: send research-focused emails with 1-page summary & CV <br> - Scholarship follow-ups/interviews <br> - Apply for backup loans | RA/TA positions, External scholarship status | Keep polite, concise emails; track deadlines |
-| **Dec 2025 – Mar 2026** | - Evaluate admission & funding offers <br> - Read award letters carefully (tuition, stipend, conditions) <br> - Submit appeals if needed <br> - Prepare Visa/I-20 documents | Departmental/University funding, Loans | Attach family income proof, scholarship offers, loan sanction letters if appealing |
-| **Apr – Aug 2026** | - Arrange housing (on/off-campus) <br> - Cardinal Care enrollment or waiver <br> - Travel & initial budget planning | N/A | Budget for 2–3 months before stipend/loan disbursement; convert funds early |
+# Stanford MSCS Application & Funding Checklist (BCA → MSCS, Fall 2026)
 
 ---
 
-### Tips for Each Phase
-
-1. **Profile Building (Now – Dec 2025)**
-   - Publish small workshop papers if possible.
-   - Document all projects on GitHub with clear README and results.
-   - Gain hands-on skills in Python, Java, SQL, Git, Linux.
-
-2. **Funding Applications**
-   - Knight-Hennessy: leadership + research + community impact essays.
-   - External scholarships: emphasize academic excellence + financial need.
-   - Departmental RA/TA: email faculty **after admission**; attach project summary.
-
-3. **Application Materials**
-   - SOP: clear narrative bridging BCA → advanced CS concepts.
-   - LOR: focus on research/problem-solving skills, not just coursework grades.
-   - CV: project + internship heavy; optional publication list.
-
-4. **Visa & Financial Documentation**
-   - Award letters + bank statements + loans must cover at least first-year cost (tuition + living).
-   - Include currency conversion (INR → USD) for consulate if needed.
+## 1️⃣ Profile & Academic Preparation (Now – Dec 2025)
+- [ ] Strengthen CS & Math fundamentals:
+  - Algorithms & Data Structures
+  - Operating Systems
+  - Databases
+  - Probability & Statistics
+  - Linear Algebra & Discrete Math
+  - Intro to Machine Learning / AI
+- [ ] Complete 3–5 portfolio projects (ML/AI, Systems, Databases)
+- [ ] Contribute to open-source or personal GitHub projects
+- [ ] Participate in coding competitions or hackathons
+- [ ] Identify 2–3 potential Stanford faculty for research alignment
+- [ ] Draft 1-page research/project summary for faculty outreach
 
 ---
 
-This table now gives you a **month-by-month visual roadmap**, **funding checkpoints**, and clear action items.  
+## 2️⃣ Funding Research & Prep (Jan – Mar 2025)
+- [ ] Explore **Knight-Hennessy Scholars**  
+  - Review eligibility & start essay drafts  
+  - [Knight-Hennessy](https://knight-hennessy.stanford.edu/)
+- [ ] Identify external Indian scholarships:
+  - Inlaks Scholarships: [https://www.inlaksfoundation.org](https://www.inlaksfoundation.org)  
+  - Narotam Sekhsaria Scholarships: [https://www.narotamsekhsaria.org](https://www.narotamsekhsaria.org)  
+  - Fulbright-Nehru: [https://foreign.fulbrightonline.org](https://foreign.fulbrightonline.org)  
+  - Tata Trusts Scholarship Programs
+- [ ] Gather documents for scholarships: transcripts, SOP, CV, family income proof
+- [ ] Research loan options (SBI Global Ed, Prodigy Finance, etc.)
 
+---
 
+## 3️⃣ Stanford MSCS Application Prep (Apr – Jun 2025)
+- [ ] Statement of Purpose: emphasize BCA → CS transition & funding interest
+- [ ] CV/Resume: highlight research projects, GitHub, internships
+- [ ] Letters of Recommendation: 2 academic + 1 professional
+- [ ] Academic Transcripts (unofficial for submission)
+- [ ] Draft faculty contact emails (RA/TA interest + research summary)
+
+**Stanford Application Portal:** [https://gradadmissions.stanford.edu/apply](https://gradadmissions.stanford.edu/apply)
+
+---
+
+## 4️⃣ Submit Applications (Jul – Sept 2025)
+- [ ] Submit Stanford MSCS application by department deadline (~Dec 2025 intake)
+- [ ] Submit Knight-Hennessy application (~Sept 2025)
+- [ ] Submit external scholarships (Inlaks, Narotam, Fulbright-Nehru)
+- [ ] Include all supporting documents (SOP, CV, LORs, transcripts)
+
+---
+
+## 5️⃣ Post-Submission / Faculty Engagement (Oct – Dec 2025)
+- [ ] Email selected faculty (research-focused, attach summary & CV)
+- [ ] Track scholarship shortlist/interviews
+- [ ] Apply for backup loans if necessary
+
+---
+
+## 6️⃣ Admission & Funding Decisions (Dec 2025 – Mar 2026)
+- [ ] Evaluate admission & funding offers
+- [ ] Read award letters line-by-line (tuition, stipend, RA/TA obligations)
+- [ ] Submit appeals if needed (attach family income proof, external scholarship offers, loan letters)
+- [ ] Prepare Visa / I-20 documentation
+  - Include Stanford funding + family funds
+
+---
+
+## 7️⃣ Pre-Departure Planning (Apr – Aug 2026)
+- [ ] Arrange housing (on-campus or off-campus)
+- [ ] Cardinal Care enrollment or waiver
+- [ ] Travel booking & initial budgeting for 2–3 months
+- [ ] Convert INR → USD for initial expenses
+
+---
+
+## 8️⃣ Quick Links
+- Stanford MSCS Admissions: [https://www.cs.stanford.edu/admissions/masters-admissions](https://www.cs.stanford.edu/admissions/masters-admissions)
+- Graduate Checklist: [https://www.cs.stanford.edu/admissions/graduate-application-checklists](https://www.cs.stanford.edu/admissions/graduate-application-checklists)
+- Financial Aid (International Students): [https://financialaid.stanford.edu/undergrad/how/international.html](https://financialaid.stanford.edu/undergrad/how/international.html)
