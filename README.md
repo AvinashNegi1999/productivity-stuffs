@@ -6,7 +6,8 @@
 ---
 ## Phase 1 Progress
 
-<img src="phase1.svg" alt="Phase 1 Progress Tracker" />
+<img src="./Phase-Svg/phase1.svg" alt="Phase 1 Progress Tracker" />
+
 
 ---
 ## **📅 Phase 1 — Foundations, Web Development & Early Personal Branding**
@@ -144,7 +145,8 @@
 ---
 ## Phase 2 Progress
 
-<img src="phase2.svg" alt="Phase 2 Progress Tracker" />
+<img src="./Phase-Svg/phase2.svg" alt="Phase 2 Progress Tracker" />
+
 
 ---
 ## **📅 Phase 2 — Advanced Web Development & AI Integration**
@@ -244,7 +246,7 @@
 ---
 ## Phase 3 Progress
 
-<img src="phase3.svg" alt="Phase 3 Progress Tracker" />
+<img src="./Phase-Svg/phase3.svg" alt="Phase 3 Progress Tracker" />
 
 ---
 ## **📅 Phase 3 — Deep AI, Distributed Systems & DSA Mastery**
@@ -344,7 +346,7 @@
 ---
 ## Phase 4 Progress
 
-<img src="phase4.svg" alt="Phase 4 Progress Tracker" />
+<img src="./Phase-Svg/phase4.svg" alt="Phase 4 Progress Tracker" />
 
 ---
 ## **📅 Phase 4 — System Design, Monetization & Thought Leadership**
