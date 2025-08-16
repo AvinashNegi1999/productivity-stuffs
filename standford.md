@@ -1,140 +1,40 @@
-# Roadmap: BCA → Stanford MS in Computer Science (MSCS)
+# Enhanced Roadmap: BCA → Stanford MS in Computer Science (MSCS)
 
-## Timeline: 12–15 months (assuming Fall 2026 intake)
-
----
-
-## Phase 1: Foundation & Profile Building (Now – Dec 2025)
-
-**Goals:** Strengthen CS/math fundamentals, research/projects, and profile for funding.
-
-- **Academic & Technical Preparation**
-  - Complete courses in:
-    - Algorithms & Data Structures
-    - Operating Systems
-    - Databases
-    - Probability & Statistics
-    - Linear Algebra & Discrete Math
-    - Intro to Machine Learning / AI
-  - Take **MOOCs / online certifications** (Stanford Online, Coursera, MIT OCW) in relevant topics.
-  
-- **Projects & Research**
-  - Build **3–5 portfolio projects**:
-    - ML/AI project with dataset + results on GitHub
-    - Systems or databases mini-project
-    - Open-source contribution
-  - Optional: submit a **short paper to a workshop or conference**
-  
-- **Profile Enhancement**
-  - Build **GitHub / LinkedIn / personal portfolio**
-  - Attend coding competitions / hackathons
-  - Identify **2–3 potential research mentors** at Stanford
-  - Collect **academic references** from professors familiar with research or advanced coursework
+| Month/Period | Tasks / Goals | Funding Focus | Notes / Tips |
+|--------------|---------------|---------------|--------------|
+| **Now – Dec 2025** | - Strengthen CS/math fundamentals (Algorithms, DS, OS, DB, Probability, Linear Algebra, ML basics) <br> - Build portfolio projects (ML/AI, Databases, Systems) <br> - Participate in coding competitions/hackathons <br> - Identify 2–3 potential Stanford faculty | N/A | Highlight projects in GitHub; aim for 3–5 polished projects |
+| **Jan – Mar 2025** | - Research funding options <br> - Start Knight-Hennessy application draft <br> - Explore external scholarships (Inlaks, Narotam, Fulbright-Nehru, Tata) <br> - Collect loan info | Knight-Hennessy, External scholarships | Collect transcripts, SOP draft, CV, bank statements for scholarships |
+| **Apr – Jun 2025** | - Prepare Stanford MSCS application <br> - SOP emphasizing BCA → CS transition <br> - CV/resume highlighting research/projects <br> - Letters of Recommendation (2 academic + 1 professional) <br> - Draft faculty contact emails (research interest + RA/TA inquiry) | Departmental RA/TA interest | Tailor SOP for funding + research interest |
+| **Jul – Sept 2025** | - Submit Stanford MSCS application (~Dec 2025 intake, confirm exact) <br> - Submit Knight-Hennessy application (~Sept 2025) <br> - Submit external scholarships | Knight-Hennessy, Inlaks/Narotam/Fulbright | Ensure all supporting documents uploaded: transcripts, LORs, SOP |
+| **Oct – Dec 2025** | - Faculty engagement: send research-focused emails with 1-page summary & CV <br> - Scholarship follow-ups/interviews <br> - Apply for backup loans | RA/TA positions, External scholarship status | Keep polite, concise emails; track deadlines |
+| **Dec 2025 – Mar 2026** | - Evaluate admission & funding offers <br> - Read award letters carefully (tuition, stipend, conditions) <br> - Submit appeals if needed <br> - Prepare Visa/I-20 documents | Departmental/University funding, Loans | Attach family income proof, scholarship offers, loan sanction letters if appealing |
+| **Apr – Aug 2026** | - Arrange housing (on/off-campus) <br> - Cardinal Care enrollment or waiver <br> - Travel & initial budget planning | N/A | Budget for 2–3 months before stipend/loan disbursement; convert funds early |
 
 ---
 
-## Phase 2: Funding & Fellowship Research (Jan – Mar 2025)
+### Tips for Each Phase
 
-**Goals:** Identify financial support options and prepare applications.
+1. **Profile Building (Now – Dec 2025)**
+   - Publish small workshop papers if possible.
+   - Document all projects on GitHub with clear README and results.
+   - Gain hands-on skills in Python, Java, SQL, Git, Linux.
 
-- **Knight-Hennessy Scholars**
-  - Review eligibility & materials: essays, references, leadership statements
-  - Begin drafting application (due ~Sept 2025)
-  
-- **External Scholarships (Indian)**
-  - **Inlaks**, **Narotam Sekhsaria**, **Fulbright-Nehru**, **Tata Trusts**
-  - Check deadlines (Mar–Jun 2025)
-  - Gather documents: transcripts, SOP, CV, project descriptions, family income proof
-  
-- **Loans & Backup Funding**
-  - Research Indian banks and international loan options (SBI Global Ed, Prodigy Finance)
-  - Prepare documents: co-signer info, bank statements
+2. **Funding Applications**
+   - Knight-Hennessy: leadership + research + community impact essays.
+   - External scholarships: emphasize academic excellence + financial need.
+   - Departmental RA/TA: email faculty **after admission**; attach project summary.
 
----
+3. **Application Materials**
+   - SOP: clear narrative bridging BCA → advanced CS concepts.
+   - LOR: focus on research/problem-solving skills, not just coursework grades.
+   - CV: project + internship heavy; optional publication list.
 
-## Phase 3: Application Preparation (Apr – Jun 2025)
-
-**Goals:** Prepare Stanford MSCS application and related funding materials.
-
-- **Application Components**
-  - Statement of Purpose (SOP) – emphasize transition from BCA → CS, projects, research aptitude, funding interest
-  - Resume/CV – highlight projects, research, internships
-  - Academic transcripts – BCA courses & grades
-  - Letters of Recommendation – 2 academic + 1 professional if available
-  
-- **Faculty Research Contact**
-  - Draft 1-page research summary
-  - Prepare targeted emails for 2–3 CS faculty
-  - Ask about RA/TA availability and lab fit (template provided in previous roadmap)
+4. **Visa & Financial Documentation**
+   - Award letters + bank statements + loans must cover at least first-year cost (tuition + living).
+   - Include currency conversion (INR → USD) for consulate if needed.
 
 ---
 
-## Phase 4: Application Submission & Funding Applications (Jul – Sept 2025)
+This table now gives you a **month-by-month visual roadmap**, **funding checkpoints**, and clear action items.  
 
-**Goals:** Submit Stanford & external scholarship applications.
 
-- **Stanford MSCS**
-  - Submit online application by department deadline (~Dec 2025 for Fall 2026, confirm exact date)
-  - Indicate funding interest clearly on application
-  - Upload SOP, CV, transcripts, LORs
-  
-- **Knight-Hennessy Scholars**
-  - Submit **separate application** by KHS deadline (~Sept 2025)
-  
-- **External Indian Scholarships**
-  - Submit Inlaks, Narotam, Fulbright-Nehru applications
-  - Include conditional admission proof if requested
-
----
-
-## Phase 5: Post-Submission / Pre-Admit (Oct – Dec 2025)
-
-**Goals:** Engage with faculty, prepare for interviews, and plan financial contingencies.
-
-- **Faculty Engagement**
-  - Send polite, research-focused emails to selected professors
-  - Attach 1-page research summary + CV
-  
-- **External Scholarship Follow-up**
-  - Track shortlist/interview calls
-  - Prepare additional documents if requested (bank statements, references)
-  
-- **Loan Preparation**
-  - Apply for backup education loans
-  - Collect co-signer documents, income proof
-
----
-
-## Phase 6: Admissions & Funding Decisions (Dec 2025 – Mar 2026)
-
-**Goals:** Evaluate offers, secure funding, and plan finances.
-
-- **Read Award Letters**
-  - Check tuition coverage, stipend, and assistantship conditions
-  - Review renewal rules and employment obligations
-  
-- **Funding Appeals (if needed)**
-  - Prepare appeal emails to Financial Aid / Department
-  - Attach evidence: family income proof, external scholarship offers, loan sanction letters
-  
-- **Visa / I-20 Preparation**
-  - Collect Stanford award letters + bank statements + loans
-  - Submit to International Students & Scholars office
-
----
-
-## Phase 7: Pre-Departure Planning (Apr – Aug 2026)
-
-**Goals:** Logistics for living in Stanford & program start.
-
-- **Housing**
-  - Arrange on-campus or off-campus housing (consider shared for cost-saving)
-  
-- **Health Insurance**
-  - Cardinal Care: confirm waiver eligibility or enroll
-  - Check subsidy if funded via RA/TA/fellowship
-  
-- **Travel & Finances**
-  - Book flights
-  - Convert funds for initial expenses
-  - Budget for first 2–3 months until stipend/loan disbursed
