@@ -107,5 +107,67 @@
 
 30. **[Python-100-Days](https://github.com/jackfrued/Python-100-Days)**
     Python 100 Days: Learn Python in 100 Days.
+---
+
+31. **[ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)**
+    A delightful, open source, community-driven framework for managing your Zsh configuration.
+
+32. **[gitignore](https://github.com/github/gitignore)**
+    A collection of useful .gitignore templates.
+
+33. **[react](https://github.com/facebook/react)**
+    A declarative, efficient, and flexible JavaScript library for building user interfaces.
+
+34. **[d3](https://github.com/d3/d3)**
+    Bring data to life with SVG, Canvas and HTML. A JavaScript library for manipulating documents based on data.
+
+35. **[flutter](https://github.com/flutter/flutter)**
+    UI toolkit from Google for crafting beautiful, natively compiled applications for mobile, web, and desktop from a single codebase.
+
+36. **[next.js](https://github.com/vercel/next.js)**
+    The React Framework for Production.
+
+37. **[git](https://github.com/git/git)**
+    The official open source version control system.
+
+38. **[electron](https://github.com/electron/electron)**
+    Build cross-platform desktop apps with JavaScript, HTML, and CSS.
+
+39. **[vscode](https://github.com/microsoft/vscode)**
+    Visual Studio Code - Open Source ("Code - OSS")
+
+40. **[axios](https://github.com/axios/axios)**
+    Promise based HTTP client for the browser and node.js.
+
+41. **[node](https://github.com/nodejs/node)**
+    Node.js JavaScript runtime.
+
+42. **[tensorflow](https://github.com/tensorflow/tensorflow)**
+    An end-to-end open source machine learning platform.
+
+43. **[transformers](https://github.com/huggingface/transformers)**
+    State-of-the-art Natural Language Processing for Pytorch, TensorFlow, and JAX.
+
+44. **[awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)**
+    A list of Free Software network services and web applications which can be hosted on your own servers.
+
+45. **[public-apis](https://github.com/public-apis/public-apis)**
+    A collective list of free APIs for use in software and web development.
+
+46. **[prettier](https://github.com/prettier/prettier)**
+    An opinionated code formatter.
+
+47. **[awesome-python](https://github.com/vinta/awesome-python)**
+    A curated list of awesome Python frameworks, libraries, software and resources.
+
+48. **[prisma](https://github.com/prisma/prisma)**
+    Modern database toolkit for TypeScript and Node.js.
+
+49. **[charts](https://github.com/helm/charts)**
+    Curated applications for Kubernetes.
+
+50. **[fastapi](https://github.com/tiangolo/fastapi)**
+    FastAPI framework, high performance, easy to learn, fast to code, ready for production.
 
 ---
+
