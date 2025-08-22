@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Avinash
 
-<div align="right">
+<div align="center">
   <img src="https://github.com/user-attachments/assets/137722de-957f-4075-86b3-a1d3ae4bf537" height="200" alt="Coding illustration" />
 </div>
 
@@ -76,19 +76,13 @@
 
 ---
 
-## 🏆 Coding Profiles & Achievements
+## 🏆 Coding Progress
 
-<div align="center">
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Avinashnegi1999/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/avinashnegi1999)
-
-</div>
-
-**Current Progress:**
+**Current Achievements:**
 - 🔥 **50+ problems** solved on LeetCode
 - 📈 **Daily coding** streak maintained
 - 🎯 **Focus areas:** Arrays, Strings, Linked Lists, and Dynamic Programming
+- 🐍 **100 Days of Python** challenge in progress
 
 ---
 
@@ -130,7 +124,13 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://avinashnegi.netlify.app)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:avinashnegi1999work@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/AvinashNegiwork)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Avinashnegi1999/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/avinashnegi1999)
+
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/@avinash56)
+[![Product Hunt](https://img.shields.io/badge/Product%20Hunt-DA552F?style=for-the-badge&logo=product-hunt&logoColor=white)](https://www.producthunt.com/@avinashnegi1999)
 [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/avinashnegi1999)
+[![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://avinashdev1999.wordpress.com)
 
 </div>
 
