@@ -39,17 +39,17 @@
 <tr>
 <td width="60%">
 
-### High-End Cameras
-- [ ] **[Hasselblad X2D II 100C](https://store.hasselblad.com/products/x2d-ii-100c)** `€7,399` ![Priority](https://img.shields.io/badge/Priority-★★★★★-ff4757)  
+### High-End Cameras *(Choose ONE)*
+- [ ] **[Hasselblad X2D II 100C](https://store.hasselblad.com/products/x2d-ii-100c)** `₹5,58,000` ![Priority](https://img.shields.io/badge/Priority-★★★★★-ff4757)  
   *Medium format mirrorless perfection*
 
-- [ ] **[Leica Q3](https://leica-camera.com/en-int/leica-q3)** `$6,985` ![Priority](https://img.shields.io/badge/Priority-★★★★★-ff4757)  
+- [ ] **[Leica Q3](https://leica-camera.com/en-int/leica-q3)** `₹4,93,000` ![Priority](https://img.shields.io/badge/Priority-★★★★★-ff4757)  
   *Full-frame compact luxury*
 
 - [ ] **[Fujifilm GFX100](https://fujifilm-x.com/en-in/products/cameras/gfx100/)** `₹5,50,000` ![Priority](https://img.shields.io/badge/Priority-★★★★☆-ffa502)  
   *102MP medium format beast*
 
-### Professional Grade
+### Professional Grade *(Alternative options)*
 - [ ] **[Nikon Z9](https://www.nikon.com/products/mirrorless-cameras/z9)** `₹5,00,000` ![Priority](https://img.shields.io/badge/Priority-★★★★☆-ffa502)
 - [ ] **[Sony A1](https://www.sony.com/electronics/interchangeable-lens-cameras/ilce-1)** `₹4,90,000` ![Priority](https://img.shields.io/badge/Priority-★★★★☆-ffa502)
 
@@ -204,25 +204,25 @@ Total: ₹28,43,000
 <img src="https://img.shields.io/badge/🏠-HOME-success?style=for-the-badge&logoColor=white"><br>
 <strong>Dream Apartment</strong><br>
 <sub>Delhi/Mumbai</sub><br>
-<code>₹3,00,00,000</code>
+<code>₹2,50,00,000</code>
 </td>
 <td align="center" width="25%">
 <img src="https://img.shields.io/badge/🚗-TESLA-red?style=for-the-badge&logoColor=white"><br>
-<strong>Model 3</strong><br>
+<strong>[Model Y](https://www.tesla.com/en_IN/modely/design)</strong><br>
 <sub>Electric Future</sub><br>
-<code>₹60,00,000</code>
+<code>₹59,87,000</code>
 </td>
 <td align="center" width="25%">
 <img src="https://img.shields.io/badge/⌚-ROLEX-gold?style=for-the-badge&logoColor=white"><br>
-<strong>Submariner</strong><br>
+<strong>[Submariner Date](https://www.rolex.com/en-us/watches/submariner/m126610ln-0001.html)</strong><br>
 <sub>Timeless Luxury</sub><br>
-<code>₹12,00,000</code>
+<code>₹10,50,000</code>
 </td>
 <td align="center" width="25%">
 <img src="https://img.shields.io/badge/🚁-DRONE-blue?style=for-the-badge&logoColor=white"><br>
-<strong>DJI Inspire 3</strong><br>
+<strong>[DJI Inspire 3](https://www.dji.com/in/inspire-3)</strong><br>
 <sub>Aerial Cinematography</sub><br>
-<code>₹8,00,000</code>
+<code>₹12,99,000</code>
 </td>
 </tr>
 </table>
