@@ -2,291 +2,356 @@
 
 <div align="center">
 
-**🎯 Vision Statement**
-> *Transform from zero to ₹10 crore in 10 years, creating multiple income streams while building a dream sanctuary that nurtures mind, body, and soul.*
+**🎯 Realistic Vision Statement**
+> *Transform from zero to ₹10 crore over 10 years (2026-2036) through strategic skill development, multiple income streams, smart investments, and disciplined execution.*
 
 ---
 
-**⏰ Timeline: 2024-2034** | **🎯 Target: ₹10,00,00,000** | **🏠 Dream House: 4000-5000 sq ft**
+**⏰ Timeline: 2026-2036** | **🎯 Target: ₹10,00,00,000** | **🏠 Dream House: 3000-4000 sq ft**
 
 </div>
 
 ---
 
-## 📊 Executive Summary
+## 📊 Realistic Executive Summary
 
-| **Metric** | **Year 1-2** | **Year 3-4** | **Year 5-6** | **Year 7-8** | **Year 9-10** |
-|------------|--------------|---------------|---------------|---------------|----------------|
-| **Income Range** | ₹0-1L | ₹5-15L | ₹20-50L | ₹50L-1Cr | ₹1-10Cr |
-| **Savings** | ₹0.5-1L | ₹3-5L | ₹10-15L | ₹25-40L | ₹1-10Cr |
-| **Focus** | Skill Building | Monetization | Scaling | Expansion | Capitalization |
-| **House Progress** | Research & Planning | Land Acquisition | Construction | Special Rooms | Completion |
+| **Metric** | **2026-27** | **2028-29** | **2030-31** | **2032-33** | **2034-36** |
+|------------|-------------|-------------|-------------|-------------|-------------|
+| **Annual Income** | ₹3-8L | ₹8-18L | ₹18-35L | ₹35-65L | ₹65L-1.5Cr |
+| **Savings Rate** | 30-40% | 40-50% | 50-60% | 60-65% | 65-70% |
+| **Net Worth** | ₹2-5L | ₹15-30L | ₹60L-1Cr | ₹2-4Cr | ₹6-10Cr |
+| **Primary Focus** | Skills + Job | Freelance + Side Biz | Product + Scaling | Leadership + Exits | Wealth + House |
+| **House Progress** | Planning | Land Search | Purchase + Design | Construction | Completion |
 
 ---
 
-## 🗺️ The Journey: Five Strategic Phases
+## 🗺️ The Realistic Journey: Five Strategic Phases
 
-### 🌱 **Phase 1: Foundation & First Steps** *(Years 1-2)*
+### 🌱 **Phase 1: Foundation & First Earnings** *(2026-2027)*
 
 <details>
-<summary><strong>🎯 Mission: Build Skills → Generate Income → Save Capital</strong></summary>
+<summary><strong>🎯 Mission: Master Skills → Land First Job → Build Emergency Fund</strong></summary>
 
-#### **💡 Core Skills Development**
-- **Programming Stack:**
-  - `Python` `C` `JavaScript`
-  - `Data Structures & Algorithms`
-  - `HTML/CSS` → `React` → `Node.js`
-  - `SQL` & `NoSQL` databases
+#### **💡 Core Skills Development (6-12 months)**
+- **Programming Fundamentals:**
+  - `Python` (Django/Flask) - 4 months intensive
+  - `JavaScript` (React/Node.js) - 3 months
+  - `SQL` & database basics - 1 month
+  - `Git`, Linux, deployment basics - 1 month
 
-#### **💼 Income Generation Strategy**
-- **Year 1:** Freelance projects on Upwork/Fiverr
-- **Year 2:** Small automation & web development contracts
-- **Projects:** Kaggle competitions, personal portfolio, GitHub presence
+#### **💼 Realistic Income Progression**
+Based on current market data, software engineers in India earn ₹7-11 lakhs annually on average, with entry-level positions starting at ₹3-5 lakhs.
 
-#### **💰 Financial Targets**
-| Metric | Year 1 | Year 2 |
-|--------|--------|--------|
-| Income | ₹0-50k | ₹50k-1L |
-| Savings | ₹10-25k | ₹25-50k |
-| Total Saved | ₹25k | ₹75k |
+| Milestone | Timeline | Income | Savings |
+|-----------|----------|---------|---------|
+| **First Job** | Month 9-12 | ₹3-5L/year | ₹1-2L |
+| **Skill Upgrade** | Month 12-18 | ₹5-8L/year | ₹2-3L |
+| **Side Projects** | Month 18-24 | +₹1-2L/year | ₹3-5L |
 
 #### **🏠 Dream House Steps**
-- 🔍 Research prime locations (300-400 sq yd plots)
-- 📚 Start personal library with 25-50 essential books
-- 📋 Create detailed house blueprints & design plans
+- 🔍 Research localities in tier-2 cities for better land prices
+- 📚 Start learning about real estate investment (20-30 books)
+- 💰 Build emergency fund of ₹3-5 lakhs
+- 📋 Create detailed house plans with architect consultation
+
+#### **🎯 Realistic Expectations**
+- **Income:** ₹3-8 lakhs annually (industry standard for freshers)
+- **Savings:** ₹2-5 lakhs (with disciplined 40% savings rate)
+- **Skills:** Job-ready in 9-12 months with dedicated learning
 
 </details>
 
 ---
 
-### 🚀 **Phase 2: Monetization & Growth** *(Years 3-4)*
+### 🚀 **Phase 2: Growth & Diversification** *(2028-2029)*
 
 <details>
-<summary><strong>🎯 Mission: Scale Income → Build Products → Invest Wisely</strong></summary>
+<summary><strong>🎯 Mission: Job Security → Freelance Income → First Investment</strong></summary>
 
-#### **🧠 Advanced Skill Stack**
-- **AI/ML Mastery:**
-  - Deep Learning (TensorFlow/PyTorch)
-  - Natural Language Processing
-  - Computer Vision
-- **Product Development:** SaaS fundamentals, API design
+#### **🧠 Advanced Specialization**
+- **Choose 1-2 High-Value Domains:**
+  - AI/ML (Python, TensorFlow, data science)
+  - Full-Stack Development (MERN/MEAN stack)
+  - DevOps/Cloud (AWS, Docker, Kubernetes)
+  - Mobile Development (React Native/Flutter)
 
-#### **💼 Revenue Diversification**
-- **Primary:** High-value freelance contracts (₹2-5L projects)
-- **Secondary:** Launch first SaaS/web application
-- **Projects:** 2-3 real-world case studies, recurring revenue products
+#### **💼 Multi-Stream Income Strategy**
+Mid-level developers with a few years of experience can earn ₹80,000-1,20,000 per month, which allows for more aggressive savings and side income development.
 
-#### **💰 Financial Acceleration**
-| Metric | Year 3 | Year 4 |
-|--------|--------|--------|
-| Income | ₹5-8L | ₹8-15L |
-| Savings | ₹2-3L | ₹3-5L |
-| Investment | ₹1L | ₹2L |
+| Income Source | Year 2028 | Year 2029 |
+|---------------|-----------|-----------|
+| **Primary Job** | ₹8-12L | ₹12-15L |
+| **Weekend Freelance** | ₹2-4L | ₹4-6L |
+| **Side Projects** | ₹1-2L | ₹2-3L |
+| **Total Annual** | ₹11-18L | ₹18-24L |
+
+#### **💰 Investment & Savings Strategy**
+| Category | 2028 | 2029 | Total |
+|----------|------|------|-------|
+| **Emergency Fund** | ₹5L | ₹8L | ₹8L |
+| **Mutual Funds/ETFs** | ₹3L | ₹6L | ₹9L |
+| **Stock Market** | ₹2L | ₹4L | ₹6L |
+| **House Fund** | ₹2L | ₹5L | ₹7L |
+| **Total Savings** | ₹12L | ₹23L | ₹30L |
 
 #### **🏠 Dream House Milestones**
-- 🏞️ **Finalize & purchase land** (₹2-3 crore budget)
-- 📚 Expand library to 100-200 carefully curated books
-- 🏗️ Get architectural plans approved & permits ready
+- 🏞️ **Identify and visit 10-15 potential plots** (200-300 sq yd)
+- 📊 **Analyze real estate trends** in target areas
+- 🏛️ **Get pre-approved** for home loans if needed
+- 📚 Expand knowledge library to 100-150 curated books
 
 </details>
 
 ---
 
-### 🎯 **Phase 3: Product Launch & Scaling** *(Years 5-6)*
+### 🎯 **Phase 3: Product Development & Scaling** *(2030-2031)*
 
 <details>
-<summary><strong>🎯 Mission: Scale Products → Multiple Streams → Start Construction</strong></summary>
+<summary><strong>🎯 Mission: Senior Role → Product Launch → Land Purchase</strong></summary>
 
-#### **📈 Business Scaling Focus**
-- **Primary Revenue:** SaaS product with 100+ paying customers
-- **Secondary:** High-value consulting (₹5-15L contracts)
-- **Growth Strategy:** Marketing automation, user acquisition funnels
+#### **📈 Career & Business Growth**
+- **Senior Developer Role:** Senior developers with specialized skills can command salaries exceeding ₹2,00,000 per month
+- **Product Development:** Launch SaaS product with realistic 6-18 month timeline
+- **Consulting Premium:** Command ₹5-15k per day for specialized consulting
 
-#### **💰 Wealth Building Phase**
-| Metric | Year 5 | Year 6 |
-|--------|--------|--------|
-| Income | ₹20-30L | ₹30-50L |
-| Business Value | ₹10-20L | ₹25-40L |
-| Investments | ₹5-8L | ₹8-15L |
-| **Total Assets** | ₹35-55L | ₹65-1Cr+ |
+#### **💰 Realistic Revenue Targets**
+| Revenue Stream | 2030 | 2031 |
+|----------------|------|------|
+| **Senior Position** | ₹18-25L | ₹25-30L |
+| **SaaS Product** | ₹2-8L | ₹8-15L |
+| **Consulting** | ₹3-8L | ₹8-12L |
+| **Investment Returns** | ₹2-4L | ₹4-8L |
+| **Total Annual** | ₹25-45L | ₹45-65L |
 
-#### **🏠 Dream House Construction Begins**
-- 🏗️ **Start construction** of main structure (4000-5000 sq ft)
-- 🤖 Integrate smart home technology from ground up
-- 🎨 Plan interior design for special-purpose rooms
-- ⚡ Install solar panels & sustainable energy systems
+#### **🏠 Major House Investment**
+- 🏞️ **Purchase Land:** ₹80L-1.2Cr for 250-300 sq yd plot
+- 🏗️ **Finalize Design:** 3000-4000 sq ft house plans
+- 📋 **Get Approvals:** Building permits and construction clearances
+- 💰 **Construction Loan:** Arrange financing for remaining amount
+
+#### **💎 Net Worth Milestone**
+| Asset Category | Value (₹ Crore) |
+|----------------|-----------------|
+| Land Investment | 0.8 - 1.2 |
+| Stock Portfolio | 0.3 - 0.5 |
+| Mutual Funds/ETFs | 0.4 - 0.6 |
+| Emergency Fund | 0.1 - 0.15 |
+| **Total Net Worth** | **1.6 - 2.45** |
 
 </details>
 
 ---
 
-### 💎 **Phase 4: High-Scale Expansion** *(Years 7-8)*
+### 💎 **Phase 4: Leadership & Wealth Building** *(2032-2033)*
 
 <details>
-<summary><strong>🎯 Mission: Team Building → Market Leadership → Special Rooms</strong></summary>
+<summary><strong>🎯 Mission: Leadership Role → Product Success → House Construction</strong></summary>
 
-#### **👥 Business Expansion**
-- **Team Growth:** Hire 3-5 key team members
-- **Market Position:** Establish market leadership in niche
-- **Revenue Streams:** Products + Consulting + Investment returns
+#### **👥 Career Advancement & Business Growth**
+- **Leadership Positions:** Tech Lead, Engineering Manager, or CTO roles
+- **Product Market Fit:** Scale SaaS to significant revenue
+- **Team Building:** Hire 2-3 people for product development
+- **Investment Growth:** Market appreciation + compound interest
 
-#### **💰 Wealth Multiplication**
-| Metric | Year 7 | Year 8 |
-|--------|--------|--------|
-| Business Revenue | ₹50-75L | ₹75L-1Cr |
-| Investment Returns | ₹10-15L | ₹15-25L |
-| **Total Annual** | ₹60-90L | ₹90L-1.25Cr |
+#### **💰 Peak Earning Phase**
+| Revenue Source | 2032 | 2033 |
+|----------------|------|------|
+| **Leadership Role** | ₹35-50L | ₹45-60L |
+| **Scaled SaaS Product** | ₹15-30L | ₹25-40L |
+| **Premium Consulting** | ₹10-15L | ₹12-20L |
+| **Investment Returns** | ₹8-15L | ₹12-25L |
+| **Total Annual** | ₹68L-1.1Cr | ₹94L-1.45Cr |
 
-#### **🏠 Dream House: Special Rooms Creation**
+#### **🏠 Dream House Construction**
+**Total Budget: ₹2.5-3.5 Crore**
 
-**🎼 Music & Instrument Sanctuary** - *₹50 Lakh*
-- Acoustic treatment & soundproofing
-- Professional recording equipment
-- Collection of instruments (piano, guitar, drums)
-- Vintage vinyl & high-end sound system
+| Component | Budget (₹ Lakh) | Details |
+|-----------|-----------------|---------|
+| **Structure** | 150-200 | 3000-4000 sq ft premium construction |
+| **Interior Design** | 80-120 | High-quality finishes and fittings |
+| **Smart Home Tech** | 30-50 | Automation, security, entertainment |
+| **Landscaping** | 20-30 | Garden, outdoor spaces |
+| **Special Rooms** | 70-100 | Custom library, office, entertainment |
 
-**💻 Ultimate Work Command Center** - *₹25 Lakh*
-- Multi-monitor setup with premium displays
-- Ergonomic workspace design
-- High-performance computing setup
-- Smart lighting & climate control
+#### **🎯 Special Room Development**
 
-**🎮 Gaming & Entertainment Hub** - *₹40 Lakh*
-- Latest gaming consoles & PC setup
-- VR/AR equipment & gaming chairs
-- Large screen entertainment system
-- Retro gaming collection
+**📚 Personal Library & Study** - *₹25-30 Lakh*
+- Custom wooden shelving for 1000+ books
+- Comfortable reading chairs and proper lighting
+- Climate control for book preservation
+- Rare book collection starting (₹5-8L investment)
 
-**📚 Private Library & Reading Lounge** - *₹30 Lakh*
-- Custom wooden shelving & reading nooks
-- Rare book collection storage
-- Comfortable seating & reading lights
-- Climate-controlled environment
+**💻 Professional Home Office** - *₹15-20 Lakh*
+- Multi-monitor setup and premium desk
+- Professional video conferencing setup
+- Ergonomic furniture and proper lighting
+- High-speed internet and backup systems
 
-**🕉️ Meditation & Spiritual Sanctuary** - *₹15 Lakh*
+**🎵 Music & Entertainment Zone** - *₹20-25 Lakh*
+- Quality sound system and acoustics
+- Musical instruments (keyboard, guitar)
+- Vinyl collection and turntable setup
+- Comfortable entertainment furniture
+
+**🧘 Meditation & Wellness Room** - *₹10-15 Lakh*
 - Minimalist design with natural materials
-- Indoor water features & plants
-- Meditation cushions & yoga equipment
-- Sound therapy & aromatherapy systems
+- Yoga and meditation equipment
+- Indoor plants and air purification
+- Calming color scheme and lighting
 
 </details>
 
 ---
 
-### 🏆 **Phase 5: Capitalization & Dream Completion** *(Years 9-10)*
+### 🏆 **Phase 5: Wealth Optimization & Dream Completion** *(2034-2036)*
 
 <details>
-<summary><strong>🎯 Mission: Portfolio Exit → Investment Gains → Complete Dream House</strong></summary>
+<summary><strong>🎯 Mission: Wealth Consolidation → House Completion → ₹10 Crore Achievement</strong></summary>
 
-#### **💰 Wealth Realization Strategies**
-- **Business Exit:** Sell SaaS for 5-10x annual revenue
-- **Investment Maturity:** Realize gains from 7+ years of investments
-- **Consulting Premium:** Command ₹25-50L annual consulting fees
+#### **💰 Final Wealth Push Strategy**
+- **Business Maturity:** SaaS generating consistent ₹30-50L annually
+- **Investment Maturity:** 8+ years of compound growth realizing gains
+- **Premium Positioning:** Command top-tier consulting rates (₹25-50L annually)
+- **Strategic Exits:** Consider partial business sale for liquidity
 
-#### **🎯 Final Financial Push**
-| Revenue Source | Amount (₹ Crore) |
-|----------------|------------------|
-| Business Sale/Valuation | 3-5 |
-| Investment Returns | 2-3 |
-| Annual Income | 1-2 |
-| **Total Achievement** | **6-10 Crore** |
+#### **🎯 Final Revenue Consolidation**
+| Wealth Source | 2034 | 2035 | 2036 |
+|---------------|------|------|------|
+| **Senior Leadership** | ₹60-80L | ₹70-90L | ₹80L-1Cr |
+| **SaaS Business** | ₹30-50L | ₹40-60L | ₹50-80L |
+| **Consulting Premium** | ₹20-30L | ₹25-35L | ₹30-50L |
+| **Investment Gains** | ₹15-30L | ₹20-40L | ₹25-50L |
+| **Total Annual** | ₹1.25-1.9Cr | ₹1.55-2.25Cr | ₹1.85-2.8Cr |
 
-#### **🏠 Dream House: Final Touches**
+#### **🏠 Dream House Final Touches**
 
-**📖 Rare Book Collection** - *₹1-1.5 Crore*
-- First editions of classics
-- Limited edition art books
-- Historical manuscripts & documents
-- Personal library of 2000+ curated titles
+**📖 Premium Book Collection** - *₹40-60 Lakh*
+- First editions and rare manuscripts
+- Complete collections of favorite authors
+- Art books and photography collections
+- Digital archive and cataloging system
 
-**🎵 Music & Media Archive** - *₹25 Lakh*
-- Vinyl record collection
-- Blu-ray & 4K movie collection
-- High-end audio equipment
-- Music streaming & media server
+**🎪 Entertainment & Luxury Additions** - *₹30-40 Lakh*
+- Home theater with premium audio-visual
+- Game room with latest gaming systems
+- Outdoor entertainment area with BBQ
+- Swimming pool or jacuzzi (if space permits)
 
-**🌿 Luxury Additions** - *₹40 Lakh*
-- Rooftop garden & lounge area
-- Mini home theater (10-12 seats)
-- Art collection & decor pieces
-- Outdoor entertainment space
+**🎨 Art & Decor Collection** - *₹20-30 Lakh*
+- Original artwork from local and international artists
+- Handcrafted furniture and decor pieces
+- Premium lighting and ambiance systems
+- Seasonal decoration and theme changes
+
+#### **💎 Final Net Worth Calculation**
+| Asset Category | Value (₹ Crore) |
+|----------------|-----------------|
+| **Completed Dream House** | 4.0 - 5.0 |
+| **SaaS Business Value** | 2.0 - 3.0 |
+| **Investment Portfolio** | 2.5 - 3.5 |
+| **Cash & Liquid Assets** | 1.0 - 1.5 |
+| **Collections & Assets** | 0.5 - 1.0 |
+| **Total Net Worth** | **10.0 - 14.0** |
 
 </details>
 
 ---
 
-## 💰 **Dream House Investment Breakdown**
+## 💰 **Realistic Budget Breakdown**
 
 <div align="center">
 
-### **Total Budget: ₹9-10 Crore**
+### **Dream House Total: ₹4-5 Crore** | **Total Net Worth Goal: ₹10+ Crore**
 
 </div>
 
-| **Category** | **Budget Range** | **Percentage** | **Key Features** |
-|--------------|------------------|----------------|------------------|
-| **🏞️ Prime Land** | ₹2.0 - 3.0 Cr | 25-30% | 300-400 sq yd, premium location |
-| **🏗️ Construction** | ₹3.0 - 3.5 Cr | 35% | 4000-5000 sq ft, premium materials |
-| **🎯 Special Rooms** | ₹1.6 Cr | 16% | 5 custom-designed purpose rooms |
-| **📚 Collections** | ₹1.0 - 1.5 Cr | 12-15% | Books, music, art & rare items |
-| **🤖 Smart Tech** | ₹1.0 Cr | 10% | Automation, security, entertainment |
-| **🌟 Luxury Additions** | ₹0.4 Cr | 4% | Garden, theater, outdoor spaces |
+| **Category** | **Budget** | **Percentage** | **Timeline** |
+|--------------|------------|----------------|--------------|
+| **🏞️ Land (250-300 sq yd)** | ₹80L - 1.2Cr | 20-24% | 2030-31 |
+| **🏗️ Construction (3000-4000 sq ft)** | ₹1.5 - 2Cr | 35-40% | 2032-34 |
+| **🎯 Special Rooms & Interior** | ₹70L - 1Cr | 15-20% | 2033-35 |
+| **📚 Collections & Books** | ₹40 - 60L | 8-12% | 2034-36 |
+| **🤖 Smart Tech & Systems** | ₹30 - 50L | 6-10% | 2033-35 |
+| **🌟 Luxury & Landscaping** | ₹50 - 70L | 10-14% | 2035-36 |
 
 ---
 
-## 🔑 **Success Principles & Mindset**
+## 🔑 **Realistic Success Principles**
 
-### **💎 Core Values**
-1. **🎯 Income First Philosophy** - Skills and expertise are your initial capital
-2. **📈 Scalability Over Hours** - Build systems, not just services
-3. **💰 Aggressive Reinvestment** - Every rupee should compound your growth
-4. **🌊 Multiple Revenue Streams** - Never depend on a single income source
-5. **📚 Timeless Wisdom Investment** - Knowledge appreciates forever
-6. **⚖️ Balanced Sanctuary** - Nurture mind, body, and soul equally
+### **💎 Evidence-Based Strategies**
+1. **🎯 Conservative Income Projections** - Based on actual market salaries and growth rates
+2. **📈 Compound Investment Strategy** - 15-20% annual returns through disciplined investing
+3. **💰 High Savings Rate** - Maintain 40-70% savings rate throughout journey
+4. **🌊 Diversified Income** - Never rely on single source, build 3-4 streams
+5. **📚 Continuous Learning** - Invest 10% of income in skills and knowledge
+6. **⚖️ Risk Management** - Emergency fund + insurance + conservative estimates
 
-### **🧠 Mental Models for Success**
-- **Compound Thinking:** Small consistent actions create exponential results
-- **Market Focus:** Solve real problems for real people at scale  
-- **Risk Management:** Diversify investments and income sources
-- **Long-term Vision:** Build assets that appreciate over decades
-- **Continuous Learning:** Adapt and evolve with technology trends
-
----
-
-## 📈 **Progress Tracking & Milestones**
-
-### **🎯 Annual Checkpoints**
-
-**Year 1:** ✅ First ₹50k earned, basic skills mastered
-**Year 2:** ✅ ₹1L saved, advanced skills developed  
-**Year 3:** ✅ First major client acquired, SaaS MVP launched
-**Year 4:** ✅ Land purchased, ₹5L invested in markets
-**Year 5:** ✅ Construction started, ₹50L annual income
-**Year 6:** ✅ Team hired, multiple revenue streams
-**Year 7:** ✅ Special rooms completed, ₹1Cr net worth
-**Year 8:** ✅ Market leadership established, premium consulting
-**Year 9:** ✅ Business valuation 5-10Cr, investment maturity
-**Year 10:** 🏆 **₹10 Crore achieved, dream house completed**
+### **🧠 Critical Success Factors**
+- **Discipline:** Maintain savings rate even as income grows
+- **Patience:** Allow compound interest to work over 10+ years
+- **Adaptability:** Adjust strategy based on market changes
+- **Focus:** Master 1-2 high-value skills deeply vs. many superficially
+- **Network:** Build relationships in tech industry for opportunities
 
 ---
 
-## 🌟 **The Timeless Legacy**
+## 📈 **Monthly Income & Savings Progression**
 
-> *This roadmap isn't just about reaching ₹10 crore—it's about building a life of purpose, creating value for others, and constructing a sanctuary that will inspire generations.*
+### **🎯 Detailed Monthly Breakdown**
+
+| **Year** | **Monthly Income** | **Monthly Savings** | **Annual Savings** | **Cumulative Net Worth** |
+|----------|-------------------|--------------------|--------------------|--------------------------|
+| **2026** | ₹25-40k | ₹10-15k | ₹1.2-1.8L | ₹1.2-1.8L |
+| **2027** | ₹40-65k | ₹15-25k | ₹1.8-3L | ₹3-4.8L |
+| **2028** | ₹65-90k | ₹25-40k | ₹3-4.8L | ₹8-12L |
+| **2029** | ₹90k-1.5L | ₹40-70k | ₹4.8-8.4L | ₹18-28L |
+| **2030** | ₹1.5-3L | ₹70k-1.5L | ₹8.4-18L | ₹35-60L |
+| **2031** | ₹3-5L | ₹1.5-3L | ₹18-36L | ₹70L-1.2Cr |
+| **2032** | ₹5-8L | ₹3-5L | ₹36-60L | ₹1.5-2.5Cr |
+| **2033** | ₹7-12L | ₹4.5-8L | ₹54-96L | ₹2.5-4.5Cr |
+| **2034** | ₹10-16L | ₹6-11L | ₹72L-1.32Cr | ₹4.5-7Cr |
+| **2035** | ₹13-19L | ₹8-13L | ₹96L-1.56Cr | ₹6.5-10Cr |
+| **2036** | ₹15-23L | ₹10-16L | ₹1.2-1.92Cr | ₹10-14Cr |
+
+---
+
+## 🌟 **The Realistic Legacy Vision**
+
+> *This roadmap represents a balanced approach to wealth building - aggressive enough to reach ₹10 crore, yet conservative enough to be achievable through disciplined execution and smart decision-making.*
 
 **The dream house represents:**
-- **🧠 Mind:** A library for continuous learning and wisdom
-- **💪 Body:** Spaces for creativity, entertainment, and wellness  
-- **🙏 Soul:** A sanctuary for reflection, meditation, and growth
+- **🧠 Intellectual Growth:** A library fostering lifelong learning
+- **💪 Creative Expression:** Spaces for music, art, and innovation
+- **🙏 Inner Peace:** A sanctuary for meditation and reflection
+- **👥 Social Connection:** Areas for hosting and building relationships
+
+---
+
+## 🚨 **Critical Risk Factors & Mitigation**
+
+### **⚠️ Potential Challenges**
+- **Market Downturns:** Economic recession affecting tech salaries
+- **Health Issues:** Medical emergencies depleting savings
+- **Business Failure:** SaaS product not achieving market fit
+- **Real Estate Bubble:** Property prices inflating beyond projections
+
+### **🛡️ Risk Mitigation Strategies**
+- **Emergency Fund:** Always maintain 12-18 months expenses
+- **Insurance Coverage:** Comprehensive health and life insurance
+- **Conservative Estimates:** Build roadmap with 70-80% success scenarios
+- **Plan B Options:** Alternative career paths and income sources
+- **Regular Reviews:** Quarterly assessment and course corrections
 
 ---
 
 <div align="center">
 
-**🚀 Ready to begin this extraordinary journey?**
+**🚀 The Realistic Dream Starts Now**
 
-*The best time to plant a tree was 20 years ago. The second best time is now.*
+*Success is not about perfect execution—it's about consistent progress, smart adaptation, and unwavering commitment to your vision.*
 
-**Start today. Dream big. Build wisely. Live fully.**
+**Timeline: 2026-2036** | **Commitment Level: High** | **Success Probability: 70-80%**
+
+**Start today. Build systematically. Achieve sustainably.**
 
 </div>
