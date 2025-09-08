@@ -1,80 +1,80 @@
-# A to Z Placement Kit - 
+# Ultimate GitHub Repositories List for Developers & Job Seekers
 
-<!-- This markdown file compiles a comprehensive list of GitHub repositories for developers and job seekers, organized by category. Update links or add notes as needed. -->
+## 📘 Free Learning, Books & Certifications
+- [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
+- [free-programming-books](https://github.com/EbookFoundation/free-programming-books)
+- [awesome](https://github.com/sindresorhus/awesome)
+- [awesome-python](https://github.com/vinta/awesome-python)
 
-## Overview
-<!-- A brief description of the list's purpose. -->
-This kit provides a curated collection of GitHub repositories to aid developers and job seekers with resources for learning, projects, interviews, and career opportunities.
+## 📚 DSA & Interview Prep
+- [Awesome DSA](https://github.com/ajayashu201191/Awesome-DSA-Resource)
+- [interview-university](https://github.com/jwasham/coding-interview-university)
+- [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)
+- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
+- [Algorithms-Phyton](https://github.com/TheAlgorithms/Python)
+- [javascript-questions](https://github.com/lydiahallie/javascript-questions)
+- [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)
+- [awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions)
 
-## Categories
+## 🏗️ System Design & Scalability
+- [system-design-primer](https://github.com/donnemartin/system-design-primer)
+- [awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns)
+- [awesome-scalability](https://github.com/binhnguyennus/awesome-scalability)
+- [awesome-sre](https://github.com/dastergon/awesome-sre)
 
-### Free Learning & Certifications
-<!-- Repositories for free courses and certifications. -->
-- [Free-Camp](https://github.com/panacloudmodernlap/free-courses-codewithcamp)
-- [Awesome](https://github.com/AvinashSingh97/awesome)
-- [Awesome-python](https://github.com/AvinashSingh97/awesome-python)
+## 💡 Project Ideas & Hands-on Learning
+- [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
+- [project-based-learning](https://github.com/practical-tutorials/project-based-learning)
+- [app-ideas](https://github.com/florinpop17/app-ideas)
+- [realworld](https://github.com/gothinkster/realworld)
+- [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code)
+- [public-apis](https://github.com/public-apis/public-apis)
 
-### DSA & Interview Prep
-<!-- Resources for Data Structures, Algorithms, and interview preparation. -->
-- [Awesome-DSA](https://github.com/AvinashSingh97/awesome-dsa)
-- [Tech-Interview-Handbook](https://github.com/AvinashSingh97/tech-interview-handbook)
-- [The-Algorithm-Python](https://github.com/AvinashSingh97/The-Algorithms-Python)
-- [Don't-Know-JS](https://github.com/AvinashSingh97/Dont-Know-JS)
-- [awesome-interview-questions](https://github.com/AvinashSingh97/awesome-interview-questions)
+## ⚙️ Developer Tools & Productivity
+- [gitignore](https://github.com/github/gitignore)
+- [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)
+- [free-for-dev](https://github.com/ripienaar/free-for-dev)
+- [design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers)
+- [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
+- [beautiful-docs](https://github.com/matheusfelipeog/beautiful-docs)
 
-### System Design & Scalability
-<!-- Repositories focused on system design and scalability. -->
-- [system-design-primer](https://github.com/AvinashSingh97/system-design-primer)
-- [awesome-scalability](https://github.com/AvinashSingh97/awesome-scalability)
+## 📦 Frameworks & Libraries
+- [react](https://github.com/facebook/react)
+- [tensorflow](https://github.com/tensorflow/tensorflow)
+- [tailwindcss](https://github.com/tailwindlabs/tailwindcss)
+- [d3](https://github.com/d3/d3)
+- [flutter](https://github.com/flutter/flutter)
+- [react-native](https://github.com/facebook/react-native)
 
-### Project Ideas & Hands-on Learning
-<!-- Project ideas and hands-on learning resources. -->
-- [Build-your-own-x](https://github.com/AvinashSingh97/build-your-own-x)
-- [awesome](https://github.com/AvinashSingh97/awesome)
-- [public-apis](https://github.com/AvinashSingh97/public-apis)
-- [developer-roadmap](https://github.com/AvinashSingh97/developer-roadmap)
+## 📊 Data Science & ML/AI
+- [fastai](https://github.com/fastai/fastai)
+- [scikit-learn](https://github.com/scikit-learn/scikit-learn)
+- [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
+- [Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners)
+- [LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)
 
-### GitHub Repositories
-<!-- Additional GitHub-related resources. -->
-- [ohmyzsh](https://github.com/AvinashSingh97/ohmyzsh)
-- [free-for-dev](https://github.com/AvinashSingh97/free-for-dev)
-- [beautiful-docs](https://github.com/AvinashSingh97/beautiful-docs)
+## 🔐 Security & Best Practices
+- [OWASP Cheat Sheet Series](https://github.com/OWASP/CheatSheetSeries)
+- [awesome-security](https://github.com/sbilly/awesome-security)
 
-### Frameworks & Libraries
-<!-- Resources for frameworks and libraries. -->
-- [react](https://github.com/AvinashSingh97/react)
-- [tailwindcss](https://github.com/AvinashSingh97/tailwindcss)
+## ☁️ DevOps & Cloud
+- [awesome-devops](https://github.com/ramitsurana/awesome-devops)
+- [kubernetes](https://github.com/kubernetes/kubernetes)
+- [awesome-docker](https://github.com/veggiemonk/awesome-docker)
 
-### Data Science & ML/AI
-<!-- Repositories for Data Science and Machine Learning/AI. -->
-- [data-science-ipython-notebooks](https://github.com/AvinashSingh97/data-science-ipython-notebooks)
-- [sktime](https://github.com/AvinashSingh97/sktime)
-- [Data-Science-For-Beginners](https://github.com/AvinashSingh97/Data-Science-For-Beginners)
-- [LMM-scratch](https://github.com/AvinashSingh97/LMM-scratch)
+## 💻 CS Fundamentals & Roadmaps
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+- [open-source-cs](https://github.com/ForrestKnight/open-source-cs)
+- [awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners)
+- [first-contributions](https://github.com/firstcontributions/first-contributions)
 
-### Security & Best Practices
-<!-- Security and best practice resources. -->
-- [OWASP-Checklist-Series](https://github.com/AvinashSingh97/OWASP-Checklist-Series)
-- [awesome-security](https://github.com/AvinashSingh97/awesome-security)
+## 🎯 Jobs & Internships
+- [remote-jobs](https://github.com/remoteintech/remote-jobs)
+- [Summer2025-Internships](https://github.com/SimplifyJobs/Summer2025-Internships)
+- [New-Grad-Positions](https://github.com/SimplifyJobs/New-Grad-Positions)
+- [awesome-job-boards](https://github.com/emredurukn/awesome-job-boards)
 
-### DevOps & Cloud
-<!-- DevOps and cloud-related repositories. -->
-- [awesome-devops](https://github.com/AvinashSingh97/awesome-devops)
-- [kubernetes-the-hard-way](https://github.com/AvinashSingh97/kubernetes-the-hard-way)
-
-### CS Fundamentals & Roadmaps
-<!-- Fundamental computer science concepts and roadmaps. -->
-- [developer-roadmap](https://github.com/AvinashSingh97/developer-roadmap)
-- [open-source-cs](https://github.com/AvinashSingh97/open-source-cs)
-
-### Jobs, Internships & Contributions
-<!-- Resources for job hunting and contributions. -->
-- [first-contributions](https://github.com/AvinashSingh97/first-contributions)
-- [remote-jobs](https://github.com/AvinashSingh97/remote-jobs)
-- [awesome-job-boards](https://github.com/AvinashSingh97/awesome-job-boards)
-
-### Web Development Extras
-<!-- Additional web development resources. -->
-- [You-Dont-Need-JavaScript](https://github.com/AvinashSingh97/You-Dont-Need-JavaScript)
-- [Front-End-Checklist](https://github.com/AvinashSingh97/Front-End-Checklist)
-- [awesome-test](https://github.com/AvinashSingh97/awesome-test)
+## 🌐 Web Development Extras
+- [You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript)
+- [Front-End checklist](https://github.com/thedaviddias/Front-End-Checklist)
+- [awesome-react](https://github.com/enaqx/awesome-react)
